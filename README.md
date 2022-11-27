@@ -1,4 +1,4 @@
-### picals
+### Pixels
 VGA =640 X 480
 HD = 1280 X 720
 FHD = 1920 X 1080
