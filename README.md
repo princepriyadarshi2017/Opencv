@@ -32,15 +32,12 @@ Resizing and croping
 
 ##### In Image processing
 
-___________________________> X
-|
-|
-|
-|
-|
-|
-|
-|
-|
-|
-Y
+<br>___________________________> X</br>
+</br>|<br>
+</br>|<br>
+</br>|<br>
+</br>|<br>
+</br>|<br>
+</br>|<br>
+</br>|<br>
+</br>Y<br>
