@@ -7,3 +7,9 @@
 ### For colured image
 
 It denpends on intensity of <B>RED GREEN BLUE</B> i.e RGB
+
+## Chapter 1
+How to read images video and webcam
+
+## Chapter 2
+Frequently used function
