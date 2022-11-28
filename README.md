@@ -19,16 +19,16 @@ Resizing and croping
 
 ##### In general
 
-X
-^
-|
-|
-|
-|
-|
-|
-|
-|_________________________> Y
+</br>X<br>
+</br>^<br>
+</br>|<br>
+</br>|<br>
+</br>|<br>
+</br>|<br>
+</br>|<br>
+</br>|<br>
+</br>|<br>
+</br>|_________________________> Y<br>
 
 ##### In Image processing
 
