@@ -41,3 +41,5 @@ Resizing and croping
 </br>|<br>
 </br>|<br>
 </br>Y<br>
+
+### Chapter 4 (Shape and texts)
