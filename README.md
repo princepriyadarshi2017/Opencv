@@ -17,6 +17,7 @@ Frequently used function
 ## Chapter 3
 Resizing and croping
 
+##### In general
 
 X
 ^
@@ -29,7 +30,7 @@ X
 |
 |_________________________> Y
 
-in cv2
+##### In Image processing
 
 ___________________________> X
 |
