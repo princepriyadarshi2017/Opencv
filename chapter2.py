@@ -9,3 +9,7 @@ cv2.waitKey(0)
 imgBlur=cv2.GaussianBlur(imgGry,(7,7),0)
 cv2.imshow("Blur Image",imgBlur)
 cv2.waitKey(0)
+
+imgCanny=cv2.Canny(img,100,100)
+cv2.imshow("Canny Image",imgCanny)
+cv2.waitKey(0)
