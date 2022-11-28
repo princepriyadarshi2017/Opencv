@@ -6,6 +6,8 @@ print(img)
 
 img[200:300,100:300]=255,0,0
 
+img[:]=255,0,0 # this to color whole matrics
+
 cv2.line(img,(0,0),(300,300),(0,255,0),3) #for line
 # cv2.line(image, start_point, end_point, color, thickness) 
 # start_point: It is the starting coordinates of the line. The coordinates are represented as tuples of two values i.e. (X coordinate value, Y coordinate value). 

@@ -45,3 +45,7 @@ Resizing and croping
 ### Chapter 4 (Shape and texts)
 
 ##  Chapter 5 (Wrap Prespective)
+
+## Chapter 6 (Joining images)
+
+## Chapter 7 (Color detection)
