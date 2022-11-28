@@ -13,3 +13,33 @@ How to read images video and webcam
 
 ## Chapter 2
 Frequently used function
+
+## Chapter 3
+Resizing and croping
+
+
+X
+^
+|
+|
+|
+|
+|
+|
+|
+|_________________________> Y
+
+in cv2
+
+___________________________> X
+|
+|
+|
+|
+|
+|
+|
+|
+|
+|
+Y
