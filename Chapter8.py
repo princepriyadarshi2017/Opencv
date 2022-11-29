@@ -35,9 +35,15 @@ def stackImages(scale,imgArray):
 img =cv2.imread("resource/shapes.png")
 imgGray = cv2.cvtColor(img,cv2.COLOR_BGR2GRAY)
 imgBlur = cv2.GaussianBlur(img,(7,7),1)
-
-imgStack=stackImages(0.6,([img,imgGray,imgBlur]))
 imgCanny = cv2.Canny(imgBlur,50,50)
+imgblank=np.zeros_like(img)
+
+imgStack=stackImages(0.6,([img,imgGray,imgBlur],
+                           [imgCanny,imgblank,imgblank]))
+
+def getContours(img):
+    contours,hi
+
 
 
 # cv2.imshow("Original",img)
