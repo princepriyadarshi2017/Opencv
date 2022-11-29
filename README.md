@@ -49,3 +49,5 @@ Resizing and croping
 ## Chapter 6 (Joining images)
 
 ## Chapter 7 (Color detection)
+
+## chapter 8 (detection Shapes in img)
